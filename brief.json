@@ -1,0 +1,9 @@
+{
+  "name": "serverless-cli",
+  "path": "index.js",
+  "version": "0.0.1",
+  "author": "Bruno Machado",
+  "dependencies": [
+    "http-client"
+  ]
+}
